@@ -44,6 +44,9 @@ captures/
 .idea/assetWizardSettings.xml
 .idea/dictionaries
 .idea/libraries
+.idea/codeStyles
+.idea/misc.xml
+.idea/runConfigurations.xml
 .gradle
 /local.properties
 /.idea/navEditor.xml
